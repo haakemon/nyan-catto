@@ -8,22 +8,11 @@ A delightful collection of feline-themed modifications for your browser's sideba
 - Adds a playful touch to your browsing experience
 
 ### 🙀 Bongo Cat
-- Adorable Bongo Cat animation at the top of the sidebar
-- **Important**: Requires Compact Mode to be working properly!
-
-### 📐 Compact Size Reducer
-- Reduces sidebar dimensions in compact mode
-- Customizes height to 85vh
-- Sets minimum width to 100px
-- Creates a more streamlined look
+- Adorable Bongo Cat animation at the top of the essentials/urlbar/top tab depending on your mode.
 
 ## ⚙️ Configuration
 
 All features are independently toggleable, allowing you to customize your experience
-
-## ⚠️ Requirements
-
-- Compact Mode must be enabled for Bongo Cat to display properly.
 
 ## 🎨 Customization
 
